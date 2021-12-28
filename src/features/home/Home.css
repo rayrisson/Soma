@@ -1,0 +1,12 @@
+body{
+  background-color: #152266;
+}
+
+.Home{
+  text-align: center;
+}
+
+.Home .result{
+  font-size: 60px;
+  color: white;
+}
